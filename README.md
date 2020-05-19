@@ -9,3 +9,4 @@
 |[mkdg](https://github.com/study-ai-data/mkdg)|맞춤법이 틀린 한국어 데이터 생성|
 |[nikl](https://github.com/study-ai-data/nikl)|국립국어원 언어정보나눔터: 말뭉치 파일 전처리|
 |[nlp-parsing](https://github.com/study-ai-data/nlp-parsing)|excel, text, json 별 전처리|
+|[knum](https://github.com/study-ai-data/knum)|한글로 구성된 숫자 <---> 아라비안 숫자|
